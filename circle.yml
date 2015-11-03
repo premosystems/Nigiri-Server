@@ -5,5 +5,7 @@ database:
   override:
     - bin/setup
 test:
-  override:
+  override: 
     - bundle exec rake
+
+
